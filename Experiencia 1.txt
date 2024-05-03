@@ -1,0 +1,3 @@
+Literal aplica lo siguiente:
+
+CMD ----> CD [direccion del archivo] ---> gcc [nombre del archivo con su extension] -o [nombre del ejecutable, en windows hace el .exe solo]
