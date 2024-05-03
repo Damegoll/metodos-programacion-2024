@@ -1,4 +1,6 @@
 # metodos-programacion-2024
+# IMPORTANTE
+TENER EN CUENTA QUE LOS ARCHIVOS SUBIDOS ACÁ SON COLOCADOS SOLAMENTE DESPUÉS DE SU ENTREGA Y/O REVISIÓN
 # Experiencia 1
 Para la primera experiencia fue simplemente compilar, asi que no puedo dejar mucho más allá de decir que se hace de la siguiente manera:
 
